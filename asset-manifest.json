@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/21-redux-basics-starting-project/static/css/main.3a6dbcc0.css",
+    "main.js": "/21-redux-basics-starting-project/static/js/main.65d2e168.js",
+    "index.html": "/21-redux-basics-starting-project/index.html",
+    "main.3a6dbcc0.css.map": "/21-redux-basics-starting-project/static/css/main.3a6dbcc0.css.map",
+    "main.65d2e168.js.map": "/21-redux-basics-starting-project/static/js/main.65d2e168.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a6dbcc0.css",
+    "static/js/main.65d2e168.js"
+  ]
+}
